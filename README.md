@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm XO , and welcome to my repo!
+
+[![minexo79 github stats](https://github-readme-stats.vercel.app/api?username=minexo79)](https://github.com/minexo79/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minexo79&layout=compact)](https://github.com/minexo79/github-readme-stats)
 
 <!--
 **minexo79/minexo79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

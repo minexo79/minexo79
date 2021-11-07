@@ -1,4 +1,5 @@
-<h3 align="center">Hi There 👋 I'm XO , and Welcome To My Repo!</h3>
+<h3 align="center">👋 Welcome To My Repo!</h3>
+<h6 align="center">Firmware Engineer, Student, Maker, And 屁孩.</h6>
 <p align="center">
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="32">
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.png" height="32">

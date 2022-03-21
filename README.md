@@ -11,6 +11,4 @@
 <hr>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=minexo79&show_icons=true&theme=dracula">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minexo79&layout=compact&theme=dracula">
 </p>

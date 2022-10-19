@@ -4,9 +4,9 @@
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="32">
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.png" height="32">
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="32">
+    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" height="32">
     <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" height="32">   
     <img src="https://user-images.githubusercontent.com/10669626/50741334-09224500-11e3-11e9-98a8-8186993eb772.png" height="32">
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_verilog_icon_130092.png" height="32">
 </p>
 <hr>
 <p align="center">

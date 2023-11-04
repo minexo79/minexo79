@@ -9,6 +9,8 @@
 </p>
 <hr>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=minexo79&show_icons=true&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minexo79&show_icons=true&theme=dracula&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api?username=minexo79&show_icons=true&theme=gruvbox">
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minexo79&show_icons=true&theme=gruvbox&layout=compact">
 </p>
